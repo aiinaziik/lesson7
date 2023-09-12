@@ -1,0 +1,37 @@
+.box{
+    width: 320px;
+    height: 400px;
+    background-color: yellow;
+    margin: auto;
+}
+h1{
+    background-color: black ;
+    color: white;
+    width: 220px;
+    height: 60px;
+    text-align: center;
+    margin-left: 55px;
+}
+p{
+    font-size: 32px;
+    font-weight: 800;
+    padding: 5px;
+}
+
+ol li:nth-child(even){
+    color: blue;
+}
+ol li:nth-child(odd){
+    color:red;
+}
+p{
+    margin-left:    25px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+
